@@ -10,7 +10,6 @@ Come to the Noisebridge Python class for answers to all these questions (And Mor
 # What does this course contain?
 The class covers indexing, slicing and other operations on strings and ordered collections.  It continues to formatting strings, and finally gestures towards regular expressions.  Along the way it also touches on immutability, objects and methods.
 
-
 # Further resources
 * The [Python documentation](https://docs.python.org/3/library/string.html) tends to be good.
 * [pyformat.info](https://pyformat.info/) describes the string formatting syntax.  Most of this information carries over to f-strings.
@@ -30,3 +29,6 @@ Once you want to create a permanent program, you will need an editor.  There are
 
 # What if I don't understand something in the class?
 That is a bug in the material and instruction.  Please contact the maintainer through a meetup or github message.
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgarst/strings-class/master)
